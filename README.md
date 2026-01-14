@@ -1,7 +1,9 @@
 ## Hi there 👋 My name is Nastasja!
 
-I am currently completing my master's degree in Computer Science at Humboldt University of Berlin. 
+I recently completed my master's degree in Computer Science at the Humboldt University of Berlin. 
 So far, I have focused mainly on backend engineering and Data Science. I am passionate about both sides!
+
+My master's thesis was the basis for my first-ever research paper, due to be published mid-January at the AI4BPM workshop.
 
 **Also:** I am passionate about great design in every form:
 whether it’s a beautifully structured codebase with great patterns, a thoughtfully designed web app, or even interior design.
